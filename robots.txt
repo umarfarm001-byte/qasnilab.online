@@ -1,0 +1,6 @@
+# Robots.txt for QasniLab IT Solutions (https://www.qasnilab.online)
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://www.qasnilab.online/sitemap.xml
